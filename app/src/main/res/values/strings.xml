@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Cape Town Tour Guide</string>
+    <string name="no_picture">No Picture</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_trails">Trails</string>
+
+    <string name="boulders_name">Boulders Beach</string>
+    <string name="camps_bay_name">Camps Bay Beach</string>
+    <string name="clifton_4th_name">Clifton 4th Beach</string>
+    <string name="fish_hoek_name">Fish Hoek Beach</string>
+    <string name="glen_name">Glen Beach</string>
+    <string name="hout_bay_name">Hout Bay Beach</string>
+    <string name="llandudno_name">Llandudno Beach</string>
+    <string name="muizenberg_name">Muizenberg Beach</string>
+    <string name="queens_name">Queen\'s Beach</string>
+    <string name="strand_name">Strand beach</string>
+
+    <string name="boulders_address">34.1970° S, 18.4510° E</string>
+    <string name="camps_bay_address">33.9513° S, 18.3831° E</string>
+    <string name="clifton_4th_address">33.9406° S, 18.3751° E</string>
+    <string name="fish_hoek_address">34.136002° S, 18.430000° E</string>
+    <string name="glen_address">33.9469° S, 18.3777° E</string>
+    <string name="hout_bay_address">34.0457° S, 18.3512° E</string>
+    <string name="llandudno_address">34.0081° S, 18.3412° E</string>
+    <string name="muizenberg_address">34.1087° S, 18.4702° E</string>
+    <string name="queens_address">33.9213° S, 18.3781° E</string>
+    <string name="strand_address">34.1062° S, 18.8176° E</string>
+
+    <string name="zeitz_name">Zeitz MOCAA</string>
+    <string name="district_six_name">District Six Museum</string>
+    <string name="heart_name">Heart of Cape Town Museum</string>
+    <string name="jewish_name">South African Jewish Museum</string>
+    <string name="diamond_name">Cape Town Diamond Museum</string>
+
+    <string name="zeitz_address">V&amp;A Waterfront, Silo District, S Arm Rd, Waterfront - 087 350 4777</string>
+    <string name="district_six_address">25A Buitenkant St, Zonnebloem - 021 466 7200</string>
+    <string name="heart_address">Groote Schuur Hospital, Main Rd, Observatory - 021 404 1967</string>
+    <string name="jewish_address">88 Hatfield St, Gardens - 021 465 1546</string>
+    <string name="diamond_address">Level 1 Clock Tower, Clock Tower District, V&amp;A Waterfront - 021 421 2488</string>
+
+    <string name="mzansi_name">Mzansi</string>
+    <string name="reverie_name">Reverie Social Table</string>
+    <string name="tarantino_name">Osteria Tarantino</string>
+    <string name="millers_name">Miller\'s Thumb</string>
+    <string name="hussar_name">The Hussar Grill</string>
+
+    <string name="mzansi_address">45 Harlem Ave, Langa - 021 694 1656</string>
+    <string name="reverie_address">226A Lower Main Rd, Observatory - 079 060 6971</string>
+    <string name="tarantino_address">125A Waterkant St, De Waterkant - 076 505 1771</string>
+    <string name="millers_address">10B Kloofnek Road, Tamboerskloof - 021 424 3838</string>
+    <string name="hussar_address">163 Beach Road, Mouille Point - 021 433 2081</string>
+
+    <string name="lions_name">Lion\'s Head</string>
+    <string name="devils_name">Devil\'s Peak</string>
+    <string name="skeleton_name">Skeleton Gorge</string>
+    <string name="kasteelspoort_name">Kasteelspoort Hiking Trail</string>
+    <string name="chapmans_name">Chapman\’s Peak</string>
+
+    <string name="lions_address">33.9350° S, 18.3890° E</string>
+    <string name="devils_address">33.9549° S, 18.4395° E</string>
+    <string name="skeleton_address">33.9565° S, 18.3873° E</string>
+    <string name="kasteelspoort_address">33.9565° S, 18.3873° E</string>
+    <string name="chapmans_address">34.0883° S, 18.3594° E</string>
+</resources>

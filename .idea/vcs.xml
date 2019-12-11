@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BluetoothApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FriendlyChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GooDMoM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GooDMoMSingleScreen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSSReader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RemindersApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RugbyQuiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RugbyScoreKeeper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Soonami" vcs="Git" />
+  </component>
+</project>

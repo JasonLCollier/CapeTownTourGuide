@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/location_item_container">
+
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/no_picture"
+        app:srcCompat="@drawable/no_picture" />
+
+    <TextView
+        android:id="@+id/location_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@id/picture"
+        android:layout_toRightOf="@id/picture"
+        android:layout_toEndOf="@id/picture"
+        android:maxLines="1"
+        tools:text="Location Name"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:id="@+id/location_address"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@id/picture"
+        android:layout_toRightOf="@id/picture"
+        android:layout_toEndOf="@id/picture"
+        android:maxLines="2"
+        tools:text="Location Address"
+        android:textSize="14sp"
+        />
+</RelativeLayout>
